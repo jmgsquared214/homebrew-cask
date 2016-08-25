@@ -1,5 +1,5 @@
 cask 'pki-io' do
-  version '0.1.0-release1'
+  version '0.1.3-release1'
   sha256 '7daf9349250c5da5f8bc1a126d704faf161977f82befb9f707bc1d788efbace4'
 
   # github.com/pki-io/admin was verified as official when first introduced to the cask
